@@ -18,7 +18,7 @@ const Social = props => {
             placeholder="github username"
             className="outline-none placeholder-gray-700 w-32 sm:w-1/2 border-t-0 border-l-0 border-r-0 border solid border-gray-900 py-1 px-1 sm:px-2 focus:border-blue-700"
             value={props.social.github}
-            onChange={event => props.handleSocialChange("github", event)}
+            //onChange={event => props.handleSocialChange("github", event)}
           />
         </div>
         <div className="w-1/2  flex justify-center items-center text-xxs sm:text-lg py-4 pr-2 sm:pr-0">
