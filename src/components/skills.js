@@ -18,7 +18,7 @@ const Skills = props => {
             id={skill}
             type="checkbox"
             checked={props.skills[skill]}
-            onChange={event => props.handleSkillsChange(skill)}
+            //onChange={event => props.handleSkillsChange(skill)}
           />
           <img
             className="ml-4 w-8 h-8 sm:w-10 sm:h-10"
