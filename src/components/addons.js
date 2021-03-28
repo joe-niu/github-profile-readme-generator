@@ -17,7 +17,7 @@ const AddonsItem = ({ inputId, inputChecked, onInputChange, Options, onIconClick
             type="checkbox"
             id={inputId}
             checked={inputChecked}
-            onChange={onInputChange}
+            //onChange={onInputChange}
           />
           <span className="pl-4">{props.children}</span>
         </label>
