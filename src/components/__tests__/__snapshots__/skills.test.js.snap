@@ -13,7 +13,6 @@ exports[`Skills renders correctly 1`] = `
     >
       <input
         className="leading:none text-xs my-0 py-1 px-2 pr-8 sm:text-xl border-2 border-gray-900 focus:border-blue-700 placeholder-gray-700"
-        onChange={[Function]}
         placeholder="Search Skills"
         type="text"
       />
@@ -56,7 +55,6 @@ exports[`Skills renders correctly 1`] = `
           <input
             checked={true}
             id="javascript"
-            onChange={[Function]}
             type="checkbox"
           />
           <img
@@ -95,7 +93,6 @@ exports[`Skills renders correctly 1`] = `
         >
           <input
             id="react"
-            onChange={[Function]}
             type="checkbox"
           />
           <img
@@ -120,7 +117,6 @@ exports[`Skills renders correctly 1`] = `
         >
           <input
             id="svelte"
-            onChange={[Function]}
             type="checkbox"
           />
           <img
