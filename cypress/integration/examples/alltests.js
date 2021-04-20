@@ -1,3 +1,6 @@
+// Group 8
+// Created these tests to identify 10 bugs we implemented
+
 describe('Github Profile Readme Generator', () => {
     it(`Title Bug 1`, () => {
         cy.wait(2000)
